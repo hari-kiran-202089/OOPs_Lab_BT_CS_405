@@ -8,3 +8,4 @@ This repository will have all the programs written by me as a part of our Object
 - Program to make the use of inline function
 - Write a function power() which raise a number m to a number n. The function takes double value of m and integer value of n and returns the result. Use a default value of n is 2 to make the function to calculatesquares when this argument when n is omitted.
 - Write a class ACCOUNT that represents your bank account and then use it. The class should allow you to i) Deposit money, ii) Withdraw money iii) Calculate interest and send you a message if have insufficient balance
+- Write a STRING class that can be used to store string, add strings, equate strings, output strings
