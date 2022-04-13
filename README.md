@@ -11,3 +11,4 @@ This repository will have all the programs written by me as a part of our Object
 - Write a STRING class that can be used to store string, add strings, equate strings, output strings
 - Create two classes DM and DB. DM stores the distance in meters and centimeters and DB stores the distance in feet and inches. write a program to add object of DM with object of DB classe
 - Unary Operator Overloading
+- Binary Operator Overloading
