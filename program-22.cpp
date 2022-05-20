@@ -1,3 +1,4 @@
+// Write function template for finding minimum value in a array
 #include <iostream>
 using namespace std;
 
